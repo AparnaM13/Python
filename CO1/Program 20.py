@@ -9,4 +9,4 @@ print('Given list: ', list1)
 for x in list1:
     if x%2==0:
         list1.remove(x)
-        print('List of odd nos ',list1)
+print('List of odd nos ',list1)
